@@ -95,7 +95,7 @@ nav ul li ul li a {
 
 /* THIS CENTERS THE DNA MUTATIONS BLOCK */
 #DNABlock {
-  width: 700px ;
+  width: 900px ;
   margin-left: auto ;
   margin-right: auto ;
 }
@@ -103,7 +103,7 @@ nav ul li ul li a {
 
 /* THIS CENTERS THE PROTEIN MUTATIONS BLOCK */
 #ProteinBlock {
-  width: 700px ;
+  width: 900px ;
   margin-left: auto ;
   margin-right: auto ;
 }
