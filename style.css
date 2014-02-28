@@ -77,3 +77,11 @@ nav ul li ul li a {
 }
  
 /* THIS IS THE ENDING POINT OF THE NAV BAR*/
+
+/* THIS CENTERS THE DNA MUTATIONS BLOCK */
+#DNABlock {
+  width: 700px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+/* END DNA BLOCK */
