@@ -85,3 +85,11 @@ nav ul li ul li a {
   margin-right: auto ;
 }
 /* END DNA BLOCK */
+
+/* THIS CENTERS THE PROTEIN MUTATIONS BLOCK */
+#ProteinBlock {
+  width: 700px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+/* END PROTEIN BLOCK */
