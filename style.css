@@ -2,6 +2,11 @@ body {font-family: arial; font-size: 20px; color: #ff0000}
 .header{font-weight: bold; text-decoration: underline; color: #3ce532; text-align: center; padding-bottom: 20px }
 
 
+/* THIS IS THE STARTING POINT OF THE BACKGROUND*/
+	/* LOL, THIS DIDN'T WORK. TRYING SOMETHING ELSE*/
+	/* DID IT IN HTML, WORKS GREAT*/
+/* THIS IS THE ENDING POINT OF THE BACKGROUND*/
+
 /* THIS IS THE STARTING POINT OF THE NAV BAR*/
 nav {
   background-color:#2C5463;
