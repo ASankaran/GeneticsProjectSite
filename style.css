@@ -28,11 +28,11 @@ border-bottom-left-radius: 15px;
  
 nav ul {
   font-family: Arial, Verdana;
-  font-size: 20px;
+  font-size: 25px;
   /*margin: 15;*/
   padding: 0;
   list-style: none;
-  margin-left:130;
+  margin-left:70;
   margin-right:25;
   width:100%;
 }
@@ -57,7 +57,7 @@ nav ul li a {
   margin-left: 1px;
   white-space: nowrap;
   height:40px; /* Width and height of top-level nav items */
-  width:90px;
+  width:110px;
   text-align:center;
  
 }
@@ -69,7 +69,7 @@ nav ul li a:hover {
 nav li:hover ul {
   display: block;
   position: absolute;
-  height:50px;
+  height:40px;
 }
  
 nav li:hover li {
