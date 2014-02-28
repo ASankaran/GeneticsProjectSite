@@ -29,9 +29,12 @@ border-bottom-left-radius: 15px;
 nav ul {
   font-family: Arial, Verdana;
   font-size: 20px;
-  margin: 15;
+  /*margin: 15;*/
   padding: 0;
   list-style: none;
+  margin-left:650;
+  margin-right:15;
+  width:80%;
 }
  
 nav ul li {
