@@ -124,3 +124,10 @@ nav ul li ul li a {
   margin-right: auto ;
 }
 /* END NAVBAR BLOCK */
+
+#next {
+  width: 300px ;
+  margin-left: auto ;
+  margin-right: 10px ;
+}
+/* END NAVBAR BLOCK */
