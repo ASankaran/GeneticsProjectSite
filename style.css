@@ -125,9 +125,10 @@ nav ul li ul li a {
 }
 /* END NAVBAR BLOCK */
 
+/* THIS ALIGNS LEFT THE NEXT BUTTON */
 #next {
   width: 300px ;
   margin-left: auto ;
   margin-right: 10px ;
 }
-/* END NAVBAR BLOCK */
+/* END NEXT BUTTON */
