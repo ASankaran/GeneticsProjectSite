@@ -133,6 +133,22 @@ nav ul li ul li a {
 }
 /* END NAVBAR BLOCK */
 
+/* THIS CENTERS THE SOURCES BLOCK */
+#source {
+  width: 910px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+/* END SOURCES BLOCK */
+
+/* THIS CENTERS THE SEIZURE BLOCK */
+#seizurepic {
+  width: 200px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+/* END SEIZURE BLOCK */
+
 /* THIS ALIGNS LEFT THE NEXT BUTTON */
 #next {
   width: 300px ;
