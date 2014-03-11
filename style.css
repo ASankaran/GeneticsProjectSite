@@ -141,13 +141,22 @@ nav ul li ul li a {
 }
 /* END SOURCES BLOCK */
 
+/* THIS CENTERS THE HIPPO BLOCK */
+#hippo {
+  width: 500px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+/* END HIPPO BLOCK */
+
 /* THIS CENTERS THE SEIZURE BLOCK */
-#seizurepic {
-  width: 200px ;
+#seizure {
+  width: 150px ;
   margin-left: auto ;
   margin-right: auto ;
 }
 /* END SEIZURE BLOCK */
+
 
 /* THIS ALIGNS LEFT THE NEXT BUTTON */
 #next {
