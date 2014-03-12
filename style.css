@@ -157,6 +157,13 @@ nav ul li ul li a {
 }
 /* END SEIZURE BLOCK */
 
+/* THIS CENTERS THE DNAGIF BLOCK */
+#DNAGIF {
+  width: 500px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+/* END DNAGIF BLOCK */
 
 /* THIS ALIGNS LEFT THE NEXT BUTTON */
 #next {
