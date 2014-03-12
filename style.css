@@ -165,6 +165,14 @@ nav ul li ul li a {
 }
 /* END DNAGIF BLOCK */
 
+/* THIS CENTERS THE PROTEINGIF BLOCK */
+#ProteinGIF {
+  width: 200px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+/* END PROTEINGIF BLOCK */
+
 /* THIS ALIGNS LEFT THE NEXT BUTTON */
 #next {
   width: 100px ;
